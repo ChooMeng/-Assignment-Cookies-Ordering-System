@@ -1,7 +1,11 @@
 Assignment: AACS1074 Programming Concepts and Design I
+
 Programme: Diploma in Science (Information Technology) 
+
 Year/Semester: Year 1/Sem 1
+
 Tutorial Group: Group 1
+
 Author:
  - Poh Choo Meng
 
@@ -13,6 +17,6 @@ System Requirements:
   - Windows 10
 
 ************************************************************************
-		     COPYRIGHT © ChooMeng 2019. All Right Reserved.
+		     COPYRIGHT Â© ChooMeng 2019. All Right Reserved.
 	    Web Application is under GNU General Public License v3.0
 ************************************************************************
