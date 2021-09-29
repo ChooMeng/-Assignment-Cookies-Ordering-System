@@ -9,6 +9,8 @@ Tutorial Group: Group 1
 Author:
  - Poh Choo Meng
 
+System Name: Cookies Ordering System
+
 Programming Language:
 [C]
 
