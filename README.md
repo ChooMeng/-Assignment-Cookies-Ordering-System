@@ -19,6 +19,6 @@ System Requirements:
   - Windows 10
 
 ************************************************************************
-             COPYRIGHT © ChooMeng 2019. All Right Reserved
-	    System is under GNU General Public License v3.0
+            COPYRIGHT © ChooMeng 2019. All Right Reserved
+           System is under GNU General Public License v3.0
 ************************************************************************
